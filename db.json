@@ -72,5 +72,79 @@
                 "watch-list": 8.5
             }
         }
+    ],
+    "show": [
+        {
+            "id":1,
+            "name": "spider-man",
+            "sub-name": "into the spider-verse",
+            "year": 2018,
+            "isSubtitled": true,
+            "tags": [
+                "spider",
+                "spiderman",
+                "spider-man",
+                "miles morales"
+            ],
+            "rating": {
+                "imdb": 8,
+                "rotten-tomato": 9,
+                "watch-list": 8.5
+            }
+        },
+        {
+            "id":2,
+            "name": "spider-man",
+            "sub-name": "the amazing",
+            "year": 2016,
+            "isSubtitled": true,
+            "tags": [
+                "spider",
+                "spiderman",
+                "spider-man",
+                "the amazing"
+            ],
+            "rating": {
+                "imdb": 8,
+                "rotten-tomato": 9,
+                "watch-list": 8.5
+            }
+        },
+        {
+            "id":3,
+            "name": "spider-man",
+            "sub-name": "no way home",
+            "year": 2022,
+            "isSubtitled": true,
+            "tags": [
+                "spider",
+                "spiderman",
+                "spider-man",
+                "no way home"
+            ],
+            "rating": {
+                "imdb": 8,
+                "rotten-tomato": 9,
+                "watch-list": 8.5
+            }
+        },
+        {
+            "id":4,
+            "name": "spider-man",
+            "sub-name": "far away from home",
+            "year": 2021,
+            "isSubtitled": true,
+            "tags": [
+                "spider",
+                "spiderman",
+                "spider-man",
+                "miles morales"
+            ],
+            "rating": {
+                "imdb": 8,
+                "rotten-tomato": 9,
+                "watch-list": 8.5
+            }
+        }
     ]
 }
