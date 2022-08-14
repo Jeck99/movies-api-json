@@ -1,0 +1,74 @@
+{
+    "massage":"data sent successfully",
+    "status":200,
+    "data": [
+        {
+            "name": "spider-man",
+            "sub-name": "into the spider-verse",
+            "year": 2018,
+            "isSubtitled": true,
+            "tags": [
+                "spider",
+                "spiderman",
+                "spider-man",
+                "miles morales"
+            ],
+            "rating": {
+                "imdb": 8,
+                "rotten-tomato": 9,
+                "watch-list": 8.5
+            }
+        },
+        {
+            "name": "spider-man",
+            "sub-name": "into the spider-verse",
+            "year": 2018,
+            "isSubtitled": true,
+            "tags": [
+                "spider",
+                "spiderman",
+                "spider-man",
+                "miles morales"
+            ],
+            "rating": {
+                "imdb": 8,
+                "rotten-tomato": 9,
+                "watch-list": 8.5
+            }
+        },
+        {
+            "name": "spider-man",
+            "sub-name": "into the spider-verse",
+            "year": 2018,
+            "isSubtitled": true,
+            "tags": [
+                "spider",
+                "spiderman",
+                "spider-man",
+                "miles morales"
+            ],
+            "rating": {
+                "imdb": 8,
+                "rotten-tomato": 9,
+                "watch-list": 8.5
+            }
+        },
+        {
+            "name": "spider-man",
+            "sub-name": "into the spider-verse",
+            "year": 2018,
+            "isSubtitled": true,
+            "tags": [
+                "spider",
+                "spiderman",
+                "spider-man",
+                "miles morales"
+            ],
+            "rating": {
+                "imdb": 8,
+                "rotten-tomato": 9,
+                "watch-list": 8.5
+            }
+        }
+    ]
+}
